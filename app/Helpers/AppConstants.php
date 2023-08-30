@@ -1,12 +1,13 @@
 <?php
 
 const APP_NAME = 'Laravel Boilerplate';
-
 const USER_START_UUID_CHAR = 'AA';
 const USER_START_UUID_DIGIT = '0001';
 
 const USER_UUID = USER_START_UUID_CHAR.USER_START_UUID_DIGIT;
 const USER_END_UUID_DIGIT = '9999';
+
+const COUNTRY_CODE = '92';
 
 const NONE = 0;
 const NO = 0;

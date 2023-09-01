@@ -30,8 +30,7 @@
         },
         "files": [
             "app/Helpers/Functions.php",
-            "app/Helpers/AppConstants.php",
-            "app/Helpers/Response.php"
+            "app/Helpers/AppConstants.php"
         ]
     },
     "autoload-dev": {
